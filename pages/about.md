@@ -41,7 +41,7 @@ permalink: /about/
     {% endfor %}
 </div>
 
-#### Windows Developer Keywords
+#### Linux Developer Keywords
 <div class="btn-inline">
     {% for keyword in site.skill_linux_keywords %}
     <button class="btn btn-outline" type="button">{{ keyword }}</button>
