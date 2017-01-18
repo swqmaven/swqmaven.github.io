@@ -5,7 +5,7 @@ baseurl:
 url: https://swqmaven.github.io/
 date_format: "ordinal"
 title: swqmaven
-subtitle: "简单主义者，Java Full Stack。"
+subtitle: "简单主义者，Java Full Stack ing。"
 description: "swq的个人博客"
 keywords: swq, maven, swqmaven
 favicon: /favicon.ico
