@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://swqmaven.github.io/
+url: https://u2bo.github.io/
 date_format: "ordinal"
-title: swqmaven
-subtitle: "简单主义者，Java Full Stack ing。"
-description: "swq的个人博客"
-keywords: swq, maven, swqmaven
+title: u2bo
+subtitle: "简单主义者，全周期工程师。"
+description: "u2bo的个人博客"
+keywords: u2bo, maven
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,11 +16,11 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: swqmaven
-organization: Pioneerdata, Inc.
-organization_url: https://www.anynode.com
+author: u2bo
+#organization: xxx, Inc.
+#organization_url: https://www.anynode.com
 location: Chongqing, China
-email: wenqiang.shi@outlook.com
+#email: xxxx
 
 # ---------------- #
 #    Navigation    #
